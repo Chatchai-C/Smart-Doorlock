@@ -28,4 +28,4 @@ Dowload Fingerprint Sensor from
 ## Demo
 You can click the image to see the video.
 
-[![Smart-Doorlock](https://img.youtube.com/vi/_pKFgCLzZb8/0.jpg)]([https://www.youtube.com/watch?v=_pKFgCLzZb8])
+[![Smart-Doorlock](https://img.youtube.com/vi/_pKFgCLzZb8/0.jpg)](https://www.youtube.com/watch?v=_pKFgCLzZb8)
